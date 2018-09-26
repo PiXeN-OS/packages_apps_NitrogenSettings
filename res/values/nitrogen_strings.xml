@@ -394,4 +394,8 @@
     <string name="pixel_navbar_anim_title">Pixel navbar animation</string>
     <string name="pixel_navbar_anim_summary">Requires a config change(display size, navbar position, reboot) themes may overwrite</string>
 
+   <!-- Allow fake signature checkbox in developer settings -->
+     <string name="allow_signature_fake">Allow signature spoofing</string>
+     <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app</string>
+
 </resources>
