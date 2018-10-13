@@ -56,4 +56,10 @@
             android:summary="@string/pocket_judge_summary"
             android:defaultValue="false" />
 
+      <Preference
+         android:key="ambient_play_cat"
+         android:title="@string/ambient_play_cat"
+         android:summary="@string/ambient_recognition_summary"
+         android:fragment="com.android.settings.AmbientPlaySettings" />
+
 </PreferenceScreen>
