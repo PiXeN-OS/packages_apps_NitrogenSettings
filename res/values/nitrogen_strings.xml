@@ -426,4 +426,8 @@
      <string name="status_bar_temperature_hide_scale_hide_image">Temp</string>
      <string name="status_bar_show_image">Image</string>
 
+      <!-- Onehand UI mode -->
+     <string name="one_hand_mode_title">Enable using one-hand mode</string>
+     <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
+        
 </resources>
