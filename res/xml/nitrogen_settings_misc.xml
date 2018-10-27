@@ -37,12 +37,6 @@
             android:title="@string/smart_pixels_title"
             android:fragment="com.nitrogen.settings.fragments.SmartPixels" />
 
-         <Preference
-            android:key="weather"
-            android:fragment="com.nitrogen.settings.fragments.Weather"
-            android:icon="@drawable/ic_weather"
-            android:title="@string/weather_title" />
-
         <com.nitrogen.settings.preferences.GlobalSettingSwitchPreference
             android:key="wake_when_plugged_or_unplugged"
             android:title="@string/wakeup_when_plugged_unplugged_title"
